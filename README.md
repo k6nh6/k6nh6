@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Himanshu Rawat</h1>
-<h3 align="center">I am developer</h3>
+<h3 align="center">I am a developer</h3>
 
 - 💬 Ask me about **react,express,html,css**
 
