@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Himanshu Rawat</h1>
-<h3 align="center">Data Analyst</h3>
+<!-- <h3 align="center">Data Analyst</h3> -->
 
-- 🌱 I’m currently learning **Power Bi**
 
-- LinkedIn [https://www.linkedin.com/in/himanshurawat33/](https://www.linkedin.com/in/himanshurawat33/)
 
-- 💬 Ask me about **Python, Powerbi, Pandas, NumPy, Matplotlib**
+
+- 💬 Ask me about **Python, Pandas, NumPy, Matplotlib**
 
 - 📫 How to reach me **rawathimanshu0669@gmail.com**
 
